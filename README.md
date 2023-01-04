@@ -8,7 +8,7 @@ Template para portfólio de Data Science
 </p>
 
 # Douglas Cavalcante
-<sub>*Tecnólogo em Eletrônica* Center</sub>
+<sub>*Tecnólogo em Eletrônica* </sub>
 
 Atualmente curso o Tecnólogo em Automação Industrial no IFSP e estudo Ciência de dados no Sigmoidal.
 
