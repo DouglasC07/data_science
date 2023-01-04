@@ -8,7 +8,7 @@ Template para portfólio de Data Science
 </p>
 
 # Douglas Cavalcante
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Tecnólogo em Eletrônica*  estudante de Automação industrial e Ciência de Dados  Center</sub>
 
 Atualmente curso o Tecnólogo em Automação Industrial no IFSP e estudo Ciência de dados no Sigmoidal.
 
