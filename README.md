@@ -7,19 +7,21 @@ Template para portfólio de Data Science
   <img src="banner_Data_Science.png" >
 </p>
 
-# Carlos Melo
+# Douglas Cavalcante
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Atualmente curso o Tecnólogo em Automação Industrial no IFSP e estudo Ciência de dados no Sigmoidal.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+ Minha formação é em Tecnologia em Eletrônica, atuo como técnico em eletrônica industrial efetuando a análise de defeito, reparo e teste de equipamentos de diversos fabricantes do setor de automação industrial.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+ Possuo formações complementares na área de matemática aplicada, análise de defeitos eletrônicos, comandos elétricos e automação industrial.
 
-**Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+**Background in:** Python, Matemática Aplicada, Eletrônica Industrial, Automação Industrial.
+
+**Link:**
+
+* [LinkedIn](https://www.linkedin.com/in/douglas-cavalcante-02400b83/)
+
 
 
 ## Projetos:
