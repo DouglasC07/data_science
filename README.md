@@ -23,9 +23,9 @@ Atualmente curso o Tecnólogo em Automação Industrial no IFSP e estudo Ciênci
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja algumas das publicações:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analisando Dados Airbnb:** https://bityli.com/blK49
 
 
 ---
