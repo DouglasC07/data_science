@@ -25,7 +25,7 @@ Atualmente curso o Tecnólogo em Automação Industrial no IFSP e estudo Ciênci
 ## Projetos:
 Veja algumas das publicações:
 
-* **Analisando Dados Airbnb:** https://bityli.com/blK49
+* **Analisando Dados Airbnb:** https://bityli.com/blK49 
 
 
 ---
