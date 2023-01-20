@@ -25,7 +25,7 @@ Atualmente curso o Tecnólogo em Automação Industrial no IFSP e estudo Ciênci
 ## Projetos:
 Veja algumas das publicações:
 
-* **Analisando Dados Airbnb:** 
+* **Analisando Dados Airbnb:** https://github.com/DouglasC07/Proejeto_Airbnb/blob/main/Analisando_os_Dados_do_Airbnb_(Cambridge_Massachusetts)_V1_1.ipynb
 
 
 ---
